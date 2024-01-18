@@ -34,9 +34,9 @@ The header-includes option is meant to:
 
 | | | | |
 |-----------------|-----------------|-----------------|-----------------|
-| [sample@mail.mail](mailto:sample@mail.mail) | [sample.github.io](https://sample.github.io) | [sample.linked.in](https://sample.linked.in) | Sample Location |
+| [casiojapi@proton.me](mailto:casiojapi@proton.me) | [github.com/casiojapi](https://github.com/casiojapi) | [maximo-santoro](https://www.linkedin.com/in/maximo-santoro/) | Argentina |
 
-ok descripcion del personaje, algo asi como un adonde estoy, de donde vengo a donde voy. 
+soy un desarrollador de blockchain xd
 
 ## Work Experience
 
@@ -46,10 +46,12 @@ Praesent ut vulputate lectus, eleifend mattis arcu. Curabitur dictum ipsum id er
 \vspace{-1em}
 
 | | |
-|----------|--------------------------------------------------------------------------------|
-| (2078--2099) **Job 1** | Duis lacinia molestie aliquam. Donec mattis, enim id porttitor laoreet, nibh ipsum rhoncus purus, eu fermentum enim velit id ex. Fusce non lacus ut felis tincidunt tincidunt eget euismod nisl. Proin at fermentum turpis. Curabitur pretium lectus a felis tincidunt laoreet.
-| (1805--1808) **Job 2** | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
-| (1555--1781) **Job 4** | Nunc efficitur justo dui, nec viverra lacus imperdiet in. Quisque interdum sed magna in accumsan. Cras accumsan lorem eros, nec auctor elit dignissim quis. Maecenas euismod posuere ante, quis tempus diam iaculis non. Mauris tincidunt ligula quis risus ornare facilisis. Mauris aliquam non tellus non maximus. 
+|------------------|--------------------------------------------------------------------------------|
+| **Rootstock** (nov 2022 -- now) | Duis lacinia molestie aliquam. Donec mattis, enim id porttitor laoreet, nibh ipsum rhoncus purus, eu fermentum enim velit id ex. Fusce non lacus ut felis tincidunt tincidunt eget euismod nisl. Proin at fermentum turpis. Curabitur pretium lectus a felis tincidunt laoreet.
+| **BBVA** (aug 2021 -- nov 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
+| **Freelance** (2021 -- now) | Nunc efficitur justo dui, nec viverra lacus imperdiet in. Quisque interdum sed magna in accumsan. Cras accumsan lorem eros, nec auctor elit dignissim quis. Maecenas euismod posuere ante, quis tempus diam iaculis non. Mauris tincidunt ligula quis risus ornare facilisis. Mauris aliquam non tellus non maximus. 
+| **FIUBA** (2019 -- 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
+| **Freelance** (2019 -- 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
 
 ### Job A, Role a \hfill (2033--)
 
