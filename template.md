@@ -36,7 +36,7 @@ The header-includes option is meant to:
 |-----------------|-----------------|-----------------|-----------------|
 | [casiojapi@proton.me](mailto:casiojapi@proton.me) | [github.com/casiojapi](https://github.com/casiojapi) | [maximo-santoro](https://www.linkedin.com/in/maximo-santoro/) | Argentina |
 
-soy un desarrollador de blockchain xd
+
 
 ## Work Experience
 
@@ -46,12 +46,12 @@ Praesent ut vulputate lectus, eleifend mattis arcu. Curabitur dictum ipsum id er
 \vspace{-1em}
 
 | | |
-|------------------|--------------------------------------------------------------------------------|
-| **Rootstock** (nov 2022 -- now) | Duis lacinia molestie aliquam. Donec mattis, enim id porttitor laoreet, nibh ipsum rhoncus purus, eu fermentum enim velit id ex. Fusce non lacus ut felis tincidunt tincidunt eget euismod nisl. Proin at fermentum turpis. Curabitur pretium lectus a felis tincidunt laoreet.
-| **BBVA** (aug 2021 -- nov 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
-| **Freelance** (2021 -- now) | Nunc efficitur justo dui, nec viverra lacus imperdiet in. Quisque interdum sed magna in accumsan. Cras accumsan lorem eros, nec auctor elit dignissim quis. Maecenas euismod posuere ante, quis tempus diam iaculis non. Mauris tincidunt ligula quis risus ornare facilisis. Mauris aliquam non tellus non maximus. 
-| **FIUBA** (2019 -- 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
-| **Freelance** (2019 -- 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
+|-------------------------|--------------------------------------------------------------------------------|
+| **Rootstock** (nov 2022--now) | Duis lacinia molestie aliquam. Donec mattis, enim id porttitor laoreet, nibh ipsum rhoncus purus, eu fermentum enim velit id ex. Fusce non lacus ut felis tincidunt tincidunt eget euismod nisl. Proin at fermentum turpis. Curabitur pretium lectus a felis tincidunt laoreet.
+| **BBVA** (aug 2021--nov 2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
+| **Freelance** (2021--now) | Nunc efficitur justo dui, nec viverra lacus imperdiet in. Quisque interdum sed magna in accumsan. Cras accumsan lorem eros, nec auctor elit dignissim quis. Maecenas euismod posuere ante, quis tempus diam iaculis non. Mauris tincidunt ligula quis risus ornare facilisis. Mauris aliquam non tellus non maximus. 
+| **FIUBA** (201 --2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
+| **Freelance** (2019--2022) | Donec neque diam, luctus vel metus nec, consequat iaculis felis. Cras ut hendrerit nisl.
 
 ### Job A, Role a \hfill (2033--)
 
